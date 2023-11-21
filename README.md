@@ -1,10 +1,18 @@
 # *My Computer Science Degree*
+A combination of:
+
+[The Open Source Computer Science Degree](https://github.com/ForrestKnight/open-source-cs)
+
+[The Python Open Source Computer Science Degree](https://github.com/ForrestKnight/open-source-cs-python)
+
+___
 
 `Computer Science Basics`
 |Courses|Duration|Effort|Prerequisites|
 |-|-|-|-|
 |[Intro To Computer Science ](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science) |12 weeks|10-20 hours / week|None|
 
+___
 
 `Java Progamming`
 |Courses|Duration|Effort|Prerequisites|
@@ -16,6 +24,8 @@
 |[Java Programming: Principles of Software Design](https://imp.i384100.net/zavZrO) |4 weeks|4-8 hours / week|Data Structures and Performance |
 |[Java Programming: Build a Recommendation System](https://imp.i384100.net/n1vro6) |4 weeks|3-6 hours / week|Java Programming: Principles of Software Design|
 
+___
+
 `Python Programming`
 |Courses|Duration|Effort|Prerequisites|
 |-|-|-|-|
@@ -25,12 +35,16 @@
 |[Using Databases with Python](https://www.coursera.org/learn/python-databases?specialization=python) |3 weeks|4-8 hours / week|Using Python to Access Web Data|
 |[Capstone: Retrieving, Processing, and Visualizing Data with Python](https://imp.i384100.net/python-capstone) |3 weeks|4-6 hours / week|Using Databases with Python|
 
+___
+
 `Other Programming`
 |Courses|Duration|Effort|Prerequisites|
 |-|-|-|-|
 |[Programming Languages: Part A](https://www.coursera.org/learn/programming-languages) |5 weeks|8-16 hours / week|None (?)|
 |[Programming Languages: Part B](https://www.coursera.org/learn/programming-languages-part-b) |3 weeks|8-16 hours / week|Programming Languages: Part A |
 |[Programming Languages: Part C](https://www.coursera.org/learn/programming-languages-part-c) |3 weeks|8-16 hours / week|Programming Languages: Part B |
+
+___
 
 `Math`
 |Courses|Duration|Effort|Prerequisites|
@@ -43,6 +57,8 @@
 |[Introduction to Probability and Data](https://imp.i384100.net/9WZ4E0) |5 weeks|5-7 hours / week|None|
 |[Intro to Statistics](https://imp.i115008.net/intro-to-statistics) |8 weeks|5-7 hours / week|None|
 
+___
+
 `Data Science`
 |Courses|Duration|Effort|Prerequisites|
 |-|-|-|-|
@@ -52,12 +68,16 @@
 |[Applied Text Mining in Python](https://imp.i384100.net/XxR0n4) |5 weeks|5-7 hours/week|Applied machine learning in Python|
 |[Applied Social Network Analysis in Python](https://imp.i384100.net/WDzWdG) |5 weeks|5-7 hours/week|Applied text mining in Python|
 
+___
+
 `Systems`
 |Courses|Duration|Effort|Prerequisites|
 |-|-|-|-|
 |[Build a Modern Computer from First Principles: From Nand to Tetris](https://imp.i384100.net/6b13dV) |6 weeks|5 hours / week|Basic programming knowledge|
 |[Build a Modern Computer from First Principles: From Nand to Tetris II](https://imp.i384100.net/dovNVq) |6 weeks|10-15 hours / week|Build a Modern Computer from First Principles: From Nand to Tetris|
 |[Introduction to Operating Systems](https://imp.i115008.net/introduction-to-operating-systems) |8 weeks|5-8 hours / week|Build a Modern Computer from First Principles: From Nand to Tetris II|
+
+___
 
 `Theory`
 |Courses|Duration|Effort|Prerequisites|
@@ -66,6 +86,8 @@
 |[Algorithms, Part I](https://imp.i384100.net/DVm9eo) |6 weeks|6-12 hours / week|Computer Science: Algorithms, Theory, and Machines|
 |[Algorithms, Part II](https://imp.i384100.net/jW4xyv) |6 weeks|6-12 hours / week|Algorithms, Part I|
 
+___
+
 `Applications`
 |Courses|Duration|Effort|Prerequisites|
 |-|-|-|-|
@@ -73,6 +95,8 @@
 |[Machine Learning](https://imp.i384100.net/YgYEBJ) |11 weeks|5-7 hours / week|Linear Algebra - Foundations to Frontiers|
 |[Database Management Essentials](https://imp.i384100.net/kjvDMn) |7 weeks|4-6 hours / week|Basic programming & CS knowledge|
 |[Cryptography I](https://imp.i384100.net/DVm9ej) |7 weeks|5 hours / week|Linear Algebra - Foundations to Frontiers & Introduction to Probability and Data|
+
+___
 
 `Unix`
 |Courses|Duration|Effort|Prerequisites|
