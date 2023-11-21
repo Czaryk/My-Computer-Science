@@ -7,14 +7,14 @@ A combination of:
 
 ___
 
-`Computer Science Basics`
+#### `Computer Science Basics`
 |Courses|Duration|Effort|Prerequisites|
 |-|-|-|-|
 |[Intro To Computer Science ](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science) |12 weeks|10-20 hours / week|None|
 
 ___
 
-`Java Progamming`
+#### `Java Progamming`
 |Courses|Duration|Effort|Prerequisites|
 |-|-|-|-|
 |[Java Programming: Solving Problems with Software](https://imp.i384100.net/GjkPGV) |4 weeks|4-8 hours / week|None|
@@ -26,7 +26,7 @@ ___
 
 ___
 
-`Python Programming`
+#### `Python Programming`
 |Courses|Duration|Effort|Prerequisites|
 |-|-|-|-|
 |[Programming for Everybody (Getting Started with Python)](https://imp.i384100.net/GjkPZr) |4 weeks|4-6 hours / week|None|
@@ -37,7 +37,7 @@ ___
 
 ___
 
-`Other Programming`
+#### `Other Programming`
 |Courses|Duration|Effort|Prerequisites|
 |-|-|-|-|
 |[Programming Languages: Part A](https://www.coursera.org/learn/programming-languages) |5 weeks|8-16 hours / week|None (?)|
@@ -46,7 +46,7 @@ ___
 
 ___
 
-`Math`
+#### `Math`
 |Courses|Duration|Effort|Prerequisites|
 |-|-|-|-|
 |[Pre-calculus](https://www.edx.org/learn/math/arizona-state-university-precalculus) |15 weeks|9-10 hours / week|None|
@@ -59,7 +59,7 @@ ___
 
 ___
 
-`Data Science`
+#### `Data Science`
 |Courses|Duration|Effort|Prerequisites|
 |-|-|-|-|
 |[Introduction to Data Science in Python](https://imp.i384100.net/5bG2n9) |3 weeks|4-6 hours/week|Basic Python knowledge|
@@ -70,7 +70,7 @@ ___
 
 ___
 
-`Systems`
+#### `Systems`
 |Courses|Duration|Effort|Prerequisites|
 |-|-|-|-|
 |[Build a Modern Computer from First Principles: From Nand to Tetris](https://imp.i384100.net/6b13dV) |6 weeks|5 hours / week|Basic programming knowledge|
@@ -79,7 +79,7 @@ ___
 
 ___
 
-`Theory`
+#### `Theory`
 |Courses|Duration|Effort|Prerequisites|
 |-|-|-|-|
 |[Computer Science: Algorithms, Theory, and Machines](https://imp.i384100.net/7mVROr) |10 weeks|2-5 hours / week|Calculus, basic programming knowledge|
@@ -88,7 +88,7 @@ ___
 
 ___
 
-`Applications`
+#### `Applications`
 |Courses|Duration|Effort|Prerequisites|
 |-|-|-|-|
 |[Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x) |6 weeks|8-10 hours / week|Java Programming: Build a Recommendation System|
@@ -98,7 +98,7 @@ ___
 
 ___
 
-`Unix`
+#### `Unix`
 |Courses|Duration|Effort|Prerequisites|
 |-|-|-|-|
 |[The Unix Workbench](https://imp.i384100.net/QOXZ4P) |4 weeks|4 hours / week|None|
